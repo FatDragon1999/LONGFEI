@@ -15,3 +15,6 @@
 	ml_1m_cosine:基于余弦相似度公式的推荐系统。
 	ml_1m_cosine_xxpercent_train:基于余弦相似度公式的模型训练，数字代表训练集所占比例。
 	ml_1m_eu:基于欧几里得公式的推荐系统。
+	
+*****数据集*****
+	movieLens的ml_100k 及 ml_1m,暂未上传
